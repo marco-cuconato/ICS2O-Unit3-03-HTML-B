@@ -1,4 +1,4 @@
-# ICS20-UnitX-YY-html
+# ICS20-Unit3-03-html
 
 [![GitHub's Super Linter](https://github.com/marco-cuconato/ICS20-Unit3-03-html/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/marco-cuconato/ICS20-Unit3-03-html/actions)
 
